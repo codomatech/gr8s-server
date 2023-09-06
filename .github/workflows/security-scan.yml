@@ -6,7 +6,10 @@ on:
       - 'release'
 
 jobs:
-- name: Run security scan on the latest docker image of gr8s
-  uses: anchore/scan-action@v3
-  with:
-    image: "codomatech/gr8s:latest"
+  security_scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run security scan on the latest docker image of gr8s
+        uses: anchore/scan-action@v3
+        with:
+          image: "codomatech/gr8s:latest"
