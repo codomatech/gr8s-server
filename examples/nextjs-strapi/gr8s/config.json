@@ -1,0 +1,12 @@
+{
+    "is_multicore": true,
+    "servers": {
+        "*": {
+            "is_spa": false,
+            "root_directory": "/var/www",
+            "template_datasource": {
+                "file_path": "/etc/gr8s/data-source.json"
+            }
+        }
+    }
+}
