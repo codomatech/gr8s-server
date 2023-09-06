@@ -1,0 +1,12 @@
+name: docker-image-security-scan
+
+on:
+  push:
+    branches:
+      - 'release'
+
+jobs:
+- name: Run security scan on the latest docker image of gr8s
+  uses: anchore/scan-action@v3
+  with:
+    image: "codomatech/gr8s:latest"
