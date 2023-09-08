@@ -108,7 +108,7 @@ at `/etc/gr8s/config.json`. Here is [an example config.json](/examples/nextjs-st
 One way to start `gr8s` would look like this:
 
 ```bash
-docker run app-gr8s \
+docker run \
     -v <path-to-your-app-root>:/var/www \
     -v <path-to-gr8s-config>:/etc/gr8s \
     --network host \
