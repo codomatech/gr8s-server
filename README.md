@@ -8,7 +8,7 @@
  `gr8s` (pronounced like grace (/ɡreɪs/)) is a specialized server for modern web frontends (e.g. apps made with React, Vue, and similar frameworks). Thanks to its smart features, it reduces your app's development time and hosting costs by a big factor.
 
 **Key features:**
-
+- Implement SEO in SPA **without the pain of SSR**
 - Simplified development workflow & easy integration
 - Better control over SEO content
 - Faster server load time for your app
