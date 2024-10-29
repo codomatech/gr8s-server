@@ -3,7 +3,7 @@
 [![Security Scan Results](https://github.com/codomatech/gr8s-server/actions/workflows/security-scan.yml/badge.svg)](https://github.com/codomatech/gr8s-server/actions/)
 
 
-<img align="right" width="159px" src="https://gr8s-server.codoma.tech/images/gr8s-logo-large.png?cb=1">
+<img align="right" width="159px" src="https://gr8s-server.codoma.tech/gr8s-logo-large.png?cb=1">
 
  `gr8s` (pronounced like grace (/ɡreɪs/)) is a specialized server for modern web frontends (e.g. apps made with React, Vue, and similar frameworks). Thanks to its smart features, it reduces your app's development time and hosting costs by a big factor.
 
