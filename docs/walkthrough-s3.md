@@ -44,9 +44,9 @@ First, install `gr8s-tools`
 
 ```bash
 # one of these
-npm install -D gr8s-tools
-pnpm install -D gr8s-tools
-yarn add -D gr8s-tools
+npm install -D @codomatech/gr8s-tools
+pnpm install -D @codomatech/gr8s-tools
+yarn add -D @codomatech/gr8s-tools
 ```
 
 Then add the following command to your build script
