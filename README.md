@@ -7,7 +7,7 @@
 
  `gr8s` (pronounced like grace (/ɡreɪs/)) is a specialized server for modern web frontends (e.g. apps made with React, Vue, and similar frameworks). Thanks to its smart features, it reduces your app's development time and hosting costs by a big factor.
 
-**Quick Links:** 🚀 [starter template with React](https://github.com/codomatech/gr8s-react-starter-template) | 📈 [companion SEO analyzer S³ Studio](https://s3.app.codoma.tech/) | 💡 [suggest a feature](https://github.com/codomatech/gr8s-server/discussions/1)
+**Quick Links:** 🚀 [starter template with React](https://github.com/codomatech/gr8s-react-starter-template) | 📈 [companion SEO analyzer S³ Studio](https://s3.app.codoma.tech/) | 🐬 [Docker Image](https://hub.docker.com/r/codomatech/gr8s) | 💡 [suggest a feature](https://github.com/codomatech/gr8s-server/discussions/1)
 
 **Key features:**
 - Implement SEO in SPA **without the pain of SSR**
